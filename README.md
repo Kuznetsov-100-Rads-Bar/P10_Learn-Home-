@@ -1,4 +1,6 @@
 Learn@Home
+__________
+
 
 Présentation du projet
 
@@ -15,10 +17,10 @@ Provenant des besoins du client, déterminé lors d'une première réunion, j'ai
 * La page de calendrier
 * La page de gestion des tâches
 
+Les USER STORIES avec critère(s) d’acceptation pour chacune des fonctionnalités.
+Pour chaque page de l'application : l'objectif de la page, les questions que je dois préciser avec le client, les composants essentiels qui doivent être dévelopés par des user stories. 
 
-Les user stories avec critère(s) d’acceptation pour chacune des fonctionnalités.
-
-Pour chaque page de l'application : l'objectif de la page, les questions que je dois préciser avec le client, les composants essentiels qui doivent être dévelopés, des user stories et un diagramme de cas d'usage.
+Des Diagrammes de cas d'usage:  pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord)
 
 J'ai également réalisé sur FIGMA une première ébauche d'une maquette dynamique.
 
