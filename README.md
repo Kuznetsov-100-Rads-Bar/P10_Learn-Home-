@@ -18,7 +18,7 @@ Provenant des besoins du client, déterminé lors d'une première réunion, j'ai
 
 Les user stories avec critère(s) d’acceptation pour chacune des fonctionnalités.
 
- pour chaque page de l'application : l'objectif de la page, les questions que je dois préciser avec le client, les composants essentiels qui doivent être dévelopés, des user stories et un diagramme de cas d'usage.
+Pour chaque page de l'application : l'objectif de la page, les questions que je dois préciser avec le client, les composants essentiels qui doivent être dévelopés, des user stories et un diagramme de cas d'usage.
 
 J'ai également réalisé sur FIGMA une première ébauche d'une maquette dynamique.
 
