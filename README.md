@@ -1,8 +1,16 @@
+A PROPOS
+_________
+Le Projet 10 - Définissez les besoins pour une application de soutien scolaire.
+
+Dev4U est une entreprise de services du numérique de 120 collaborateurs.
+
+Vous êtes le lead développeur de l’entité web.
+
+
+
 Learn@Home
 __________
-
-
-Présentation du projet
+Objectif et détail du projet :
 
 Learn@Home est une association qui met en relation des enfants en difficulté
 scolaire et des bénévoles, en ligne. Ils ont pour objectif de permettre à tout élève,
@@ -17,11 +25,11 @@ Provenant des besoins du client, déterminé lors d'une première réunion, j'ai
 * La page de calendrier
 * La page de gestion des tâches
 
-Les USER STORIES avec critère(s) d’acceptation pour chacune des fonctionnalités.
+1 - Des Diagrammes de cas d'usage:  pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord)
+
+2 - Les USER STORIES avec critère(s) d’acceptation pour chacune des fonctionnalités.
 Pour chaque page de l'application : l'objectif de la page, les questions que je dois préciser avec le client, les composants essentiels qui doivent être dévelopés par des user stories. 
 
-Des Diagrammes de cas d'usage:  pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord)
+3 - Un Kanban, J'ai commencé à remplir le projet sur GitHub un KANBAN découpant les blocs de fonctionnalités et sous-fonctionnalités pour le développement avec les principales tâches à réaliser.
 
-J'ai également réalisé sur FIGMA une première ébauche d'une maquette dynamique.
-
-J'ai commencé à remplir le projet sur GitHub un KANBAN découpant les blocs de fonctionnalités et sous-fonctionnalités pour le développement avec les principales tâches à réaliser.
+4 - Maquaette FIGMA, J'ai également réalisé sur FIGMA une première ébauche d'une maquette dynamique.
