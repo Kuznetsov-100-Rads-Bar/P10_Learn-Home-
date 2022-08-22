@@ -32,4 +32,4 @@ Pour chaque page de l'application : l'objectif de la page, les questions que je 
 
 3 - Un Kanban, J'ai commencé à remplir le projet sur GitHub un KANBAN découpant les blocs de fonctionnalités et sous-fonctionnalités pour le développement avec les principales tâches à réaliser.
 
-4 - Maquaette FIGMA, J'ai également réalisé sur FIGMA une première ébauche d'une maquette dynamique.
+4 - Maquaette FIGMA, J'ai également réalisé sur FIGMA une première ébauche d'une maquette dynamique
