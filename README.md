@@ -20,6 +20,7 @@ et  à leurs bénévoles de communiquer plus facilement, directement depuis leur
 
 Provenant des besoins du client, déterminé lors d'une première réunion, j'ai créer une documentation Les Diagrammes de cas d'usage pour chacune des fonctionnalités majeures de chaque page contenant :
 
+### Documentations : 
 * [La page d'inscription](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-d'inscription)
 * [La page de connexion](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-de-connexion)
 * [Une page tableau de bord](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-de-tableau-de-bord)
@@ -35,3 +36,7 @@ Pour chaque page de l'application : l'objectif de la page, les questions que je 
 **_3 - Un Kanban_**, J'ai commencé à remplir le projet sur GitHub un KANBAN découpant les blocs de fonctionnalités et sous-fonctionnalités pour le développement avec les principales tâches à réaliser.
 
 **_4 - Maquaette FIGMA_**, J'ai également réalisé sur FIGMA une première ébauche d'une maquette dynamique
+
+### **_Liens Utiles:_** 
+* [Repo Github](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-)
+* [Maquette Figma](https://www.figma.com/file/byavj6u9Ei7xPIWYD30KQC/Projet-Learn%40Home?node-id=0%3A1)
