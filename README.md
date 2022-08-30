@@ -8,7 +8,7 @@ Vous êtes le lead développeur de l’entité web.
 
 
 
-__ Learn@Home
+Learn@Home
 __________
 Objectif et détail du projet :
 
@@ -19,11 +19,12 @@ et  à leurs bénévoles de communiquer plus facilement, directement depuis leur
 
 Provenant des besoins du client, déterminé lors d'une première réunion, j'ai créer une documentation Les Diagrammes de cas d'usage pour chacune des fonctionnalités majeures de chaque page contenant :
 
-* La page de connexion
-* Une page tableau de bord
-* La page interface de chat
-* La page de calendrier
-* La page de gestion des tâches
+* [La page d'inscription](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-d'inscription)
+* [La page de connexion](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-de-connexion)
+* [Une page tableau de bord](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-de-tableau-de-bord)
+* [La page interface de chat](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-d'interface-de-chat)
+* [La page de calendrier](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-de-calendrier)
+* [La page de gestion des tâches](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-de-gestion-des-t%C3%A2ches)
 
 1 - Des Diagrammes de cas d'usage:  pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord)
 
