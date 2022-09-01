@@ -28,6 +28,7 @@ Provenant des besoins du client, déterminé lors d'une première réunion, j'ai
 * [La page de calendrier](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-de-calendrier)
 * [La page de gestion des tâches](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-/wiki/Page-de-gestion-des-t%C3%A2ches)
 
+ # PRESENTATION DES ELEMENTS SUIVANT : 
 **_1 - Des Diagrammes de cas d'usage:_**  pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord)
 
 **_2 - Les USER STORIES_** avec critère(s) d’acceptation pour chacune des fonctionnalités.
