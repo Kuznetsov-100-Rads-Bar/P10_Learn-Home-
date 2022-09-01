@@ -41,3 +41,4 @@ Pour chaque page de l'application : l'objectif de la page, les questions que je 
 ### **_Liens Utiles:_** 
 * [Repo Github](https://github.com/Kuznetsov-100-Rads-Bar/P10_Learn-Home-)
 * [Maquette Figma](https://www.figma.com/file/byavj6u9Ei7xPIWYD30KQC/Projet-Learn%40Home?node-id=0%3A1)
+* [KANBAN](https://github.com/users/Kuznetsov-100-Rads-Bar/projects/1/views/1)
